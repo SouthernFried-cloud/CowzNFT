@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1ff72d298f379c2c2869ba5fc00a61a218f6bbeb",
+  "SCAN_LINK": "https://polygonscan.com/token/0x1ff72d298f379c2c2869ba5fc00a61a218f6bbeb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CowzNFT",
+  "SYMBOL": "COWZ",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 30000000000000000000,
+  "DISPLAY_COST": 30,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cowznft",
+  "SHOW_BACKGROUND":true 
+}
