@@ -387,19 +387,12 @@ function App() {
                   {CONFIG.NETWORK.NAME} Mainnet) and the correct address 
                   Please note:
                   Once you make the purchase, you cannot undo this action
-                </s.TextTitle>
-             <s.TextDescription
-              style={{
-              textAlign: "center",
-              color: "var(--primary-text)",
-            }}
-          >
-            https://twitter.com/COWZnfts
-            https://instagram.com/cowznfts 
-            https://dicord.gg/XxMJwAzTXX 
-            https://polygonscan.com/address/0x1ff72d298f379c2c2869ba5fc00a61a218f6bbeb
-            Please click the banner for NFT calendar.io below. Thanks!
-          </s.TextDescription>
+                  https://twitter.com/COWZnfts
+                  https://instagram.com/cowznfts 
+                  https://dicord.gg/XxMJwAzTXX 
+                  https://polygonscan.com/address/0x1ff72d298f379c2c2869ba5fc00a61a218f6bbeb
+                  Please click the banner for NFT calendar.io below. Thanks!
+            </s.TextTitle>
         </s.Container>
       </s.Container>
     </s.Screen>
