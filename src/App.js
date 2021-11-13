@@ -413,7 +413,6 @@ function App() {
               color: "var(--primary-text)",
             }}
             </s.TextDescription>
-          </s.TextDescription>
         </s.Container>
       </s.Container>
     </s.Screen>
