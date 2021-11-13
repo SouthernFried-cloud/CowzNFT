@@ -380,15 +380,20 @@ function App() {
         </ResponsiveWrapper>
         <s.SpacerMedium />
         <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
-          <s.TextDescription
-            style={{
+           <s.TextTitle
+                  style={{ textAlign: "center", color: "var(--accent-text)" }}
+                >
+                   Please make sure you are connected to the right network (
+                  {CONFIG.NETWORK.NAME} Mainnet) and the correct address 
+                  Please note:
+                  Once you make the purchase, you cannot undo this action
+                </s.TextTitle>
+             <s.TextDescription
+              style={{
               textAlign: "center",
               color: "var(--primary-text)",
             }}
           >
-            Please make sure you are connected to the right network (
-            {CONFIG.NETWORK.NAME} Mainnet) and the correct address. Please note:
-            Once you make the purchase, you cannot undo this action
             https://twitter.com/COWZnfts
             https://instagram.com/cowznfts 
             https://dicord.gg/XxMJwAzTXX 
