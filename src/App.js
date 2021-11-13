@@ -398,9 +398,14 @@ function App() {
             }}
           >
             We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
-            successfully mint your NFT. We recommend that you don't lower the
-            gas limit. https:////twitter.com/COWZnfts https://instagram.com/cowznfts https://dicord.gg/XxMJwAzTXX 
-            https://polygonscan.com/address/0x1ff72d298f379c2c2869ba5fc00a61a218f6bbeb
+            successfully
+            mint your NFT. We recommend that you
+            don't lower the
+            gas limit. 
+            https:////twitter.com/COWZnfts
+            https://instagram.com/cowznfts 
+            https://dicord.gg/XxMJwAzTXX 
+        https://polygonscan.com/address/0x1ff72d298f379c2c2869ba5fc00a61a218f6bbeb
             Please click the banner for NFT calendar.io below. Thanks!
           </s.TextDescription>
         </s.Container>
